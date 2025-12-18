@@ -1,7 +1,7 @@
 Eram
 ====
 
-Eram is a fork of eram. "E" is for editor and "ram" is my initials.
+Eram is a fork of kilo. "E" is for editor and "ram" is my initials.
 
 Usage: eram `<filename>`
 
